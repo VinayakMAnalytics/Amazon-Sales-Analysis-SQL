@@ -77,7 +77,7 @@ This project focuses on performing an Exploratory Data Analysis (EDA) and solvin
 - Analyzed top customers in each state and their total spend.
 - Suggested cross-sell opportunities (e.g., customers who purchased Product A but not Product B).
 
-📊 Dataset Details
+# 📊 Dataset Details #
 The dataset consists of 50,000+ rows spread across multiple tables:
 
 - Category: Contains details about product categories.
@@ -90,7 +90,7 @@ The dataset consists of 50,000+ rows spread across multiple tables:
 - Shipping: Shipping details, including providers and delivery status.
 - Inventory: Stock details for each product and warehouse information.
 
-⚙️ Steps Followed
+# ⚙️ Steps Followed #
 
 🛠️ Exploratory Data Analysis (EDA):
 - Data Overview: Displayed all records and key statistics for initial understanding.
