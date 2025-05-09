@@ -101,13 +101,13 @@ The dataset consists of 50,000+ rows spread across multiple tables:
 - Anomalies and Outliers: Detected and flagged unusual data points.
 - Visualization Preparation: Prepared summarized data for graphical representation.
 
-🚀 Key Highlights
+# 🚀 Key Highlights #
 - 📂 Dataset Scale: Analyzed over 50,000+ rows across multiple interconnected tables.
 - 🧮 Complex Queries: Wrote advanced SQL queries involving joins, subqueries, and window functions.
 - 🔄 Automation: Automated inventory updates for sales and returns.
 - 📈 Insights Delivered: Provided actionable business insights for revenue growth, pricing strategies, and customer retention.
 - 🛠️ Problem-Solving: Addressed real-world business problems, improving operational efficiency.
 
-📌 Future Scope
+# 📌 Future Scope #
 - Advanced Machine Learning: Build predictive models for sales forecasting and customer segmentation.
 - Deeper Analysis: Explore additional dimensions like regional sales performance or seasonality.
